@@ -1,2 +1,15 @@
-# CodeAlpha_FAQChatbot
-AI-powered FAQ Chatbot built with Python, NLP, TF-IDF Vectorization, and Cosine Similarity to provide intelligent responses to user queries.
+# FAQ Chatbot
+
+AI-powered FAQ chatbot using NLP and cosine similarity.
+
+Features:
+- NLP text preprocessing
+- Similarity matching
+- Interactive chatbot interface
+- Fast responses
+
+Technologies:
+- Python
+- Streamlit
+- NLTK
+- Scikit-learn
